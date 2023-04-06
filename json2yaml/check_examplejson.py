@@ -14,4 +14,4 @@ if len(sys.argv) > 1:
 else:
     print("usage: check_examplejson.py <file>")
 
-# python3 check_examplejson.py example.json = Terminal input to check if json file valid
+# python3 check_examplejson.py example.json = Terminal input to check if json file valid.
